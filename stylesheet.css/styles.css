@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+body {
+    background-color:#E5E5E5;
+    padding: 20px;
+}
+
+div {
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.header {
+    font-size: 8ch;
+    color: #0B2239;
+    text-align: center;
+    font-family: Inter;
+}
+
+.banner1 {
+    width: 100%;
+    height: 72px;
+    padding: 10px;
+    display: flex;
+    background-color: #0B2239;
+}
+
+p {
+    width: 650px; 
+    margin-top: 6px;
+    text-align: left;
+    align-self: center;
+    margin-left: 120px; 
+    color: aliceblue;
+}
+
+a {
+    margin-top: 6px;
+    color: #4AD295;
+    text-align: right;
+    margin-left: 120px; 
+    align-self: center;
+    display: inline-block;
+}
+button {
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin-left: 25px;
+    align-self: center;
+    color: aliceblue;
+    background-color:#4AD295;
+}
+
+.banner2 {
+    width: 100%;
+    height: 52px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #2B2627;
+}
+
+p2 {
+    width: 689px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-style: normal;
+}
+
+img {
+    width: 16px;
+    height: 16px;
+    align-self: center;
+}
+
+.banner3 {
+    width: 40%;
+    height: 72px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.banner4 {
+    width: 40%;
+    height: 62px;
+    display: flex;
+    color: #FFFFFF;
+    padding-top: 10px;
+    text-align: center;
+    background-color: #26262B;
+}
+
+.banner5 {
+    width: 30%;
+    height: 206px;
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: #0B2239;
+}
